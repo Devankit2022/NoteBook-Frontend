@@ -33,6 +33,11 @@
     margin-bottom: 0.5em;
 }
 
+.errmsg a:any-link {
+    color: var(--ERROR);
+    text-decoration: underline;
+}
+
 .nowrap {
     white-space: nowrap;
 }
@@ -222,7 +227,7 @@ tr {
     background-color: var(--INACTIVE);
 }
 
-/*  NOTE */
+/* NOTE */
 
 .note__created,
 .note__updated,

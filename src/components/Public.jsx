@@ -10,8 +10,8 @@ const Public = () => {
             </header>
             <main className="public__main">
                 <p>
-                    Developed by Ankit Kumar Mondal | Front-end developer |
-                    Problem Solver | Aspiring Full-stack developer
+                    Developed by Ankit Kumar Mondal | Full-stack developer |
+                    Problem Solver
                 </p>
                 <address className="public__addr">
                     ankitkumarmondalofficial@gmail.com
