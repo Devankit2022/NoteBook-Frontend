@@ -10,31 +10,17 @@ const Public = () => {
             </header>
             <main className="public__main">
                 <p>
-                    Developed by Ankit Kumar Mondal | Full-stack developer |
-                    Problem Solver
+                    Ankit's Repair Shop | Fatest Completer | Covers All Range Of
+                    Problem
                 </p>
                 <address className="public__addr">
-                    ankitkumarmondalofficial@gmail.com
+                    ankitsrepairshop999@gmail.com
                     <br />
-                    <a
-                        href="https://www.linkedin.com/in/ankit-kumar-mondal-60a531213"
-                        target="_blank"
-                        rel="noreferrer"
-                        style={{ textDecoration: 'none' }}
-                    >
-                        Linkdein
-                    </a>
+                    <span>Visit Website</span>
                     <br />
-                    <a
-                        href="https://github.com/Devankit2022"
-                        target="_blank"
-                        rel="noreferrer"
-                        style={{ textDecoration: 'none' }}
-                    >
-                        Github
-                    </a>
+                    <span>Linkdein</span>
                     <br />
-                    8926085820
+                    9999999999
                 </address>
                 <br />
                 <p>Owner: Ankit Kumar Mondal</p>
